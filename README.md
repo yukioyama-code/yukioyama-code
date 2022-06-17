@@ -5,6 +5,7 @@
 - 💬 Meu e-mail é: oyamayukihiroji@gmail.com
 - 😄 Pronome: ele/dele
 - ⚡ Séries, músicas (POP, MBP), filosofia de vida
+- 🎮 Discord: Yuki Oyama #2633
 
 <div align="center">
   <a href="https://github.com/yukioyama-code">
