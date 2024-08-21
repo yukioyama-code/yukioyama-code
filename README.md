@@ -1,7 +1,8 @@
 ### E aí! Sou Yuki Oyama 👋
 
+- 🔭 Bacharelando em Ciência da Computação
 - 🔭 Técnico em Informática para Internet 
-- 🌱 Dev Back-end (Python, JavaScript, PHP e Java)
+- 🌱 Dev Back-end
 - 💬 Meu e-mail é: oyamayukihiroji@gmail.com
 - 😄 Pronome: ele/dele
 - ⚡ Séries, músicas (POP, MBP), filosofia de vida
